@@ -2,7 +2,7 @@
 name: Governance Proposal
 about: Suggest a new proposal to be executed by the DAO.
 title: "[PROPOSAL]"
-labels: ''
+labels: proposal
 assignees: ''
 
 ---
